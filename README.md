@@ -1,5 +1,5 @@
 # leetcode
 test
-```bash
+```
 test
 ```
